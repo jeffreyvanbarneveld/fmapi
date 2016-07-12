@@ -1,0 +1,17 @@
+{
+  "name": "Jeffdev/fmapi",
+  "authors": [
+    {
+      "name": "JeffDev"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "classmap" : [
+      "src/FileMaker.php",
+      "src/FileMakerApi.php",
+      "src/FileMakerRecordObject.php",
+      "src/FileMakerHelper.php"
+    ]
+  }
+}
